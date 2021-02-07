@@ -1,0 +1,22 @@
+{
+  "name": "personal_assitant",
+  "version": "1.0.0",
+  "description": "An which acts like personal assitant",
+  "main": "index.js",
+  "scripts": {
+    "test": "start-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/07sainishanth/personal_assitant.git"
+  },
+  "keywords": [
+    "PA"
+  ],
+  "author": "Sai Nishanth Vaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/07sainishanth/personal_assitant/issues"
+  },
+  "homepage": "https://github.com/07sainishanth/personal_assitant#readme"
+}
